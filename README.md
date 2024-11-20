@@ -1,3 +1,4 @@
+
 # 👋 Hi there, I'm Dimitri Lefebvre!
 
 ## 🚀 About Me
@@ -7,17 +8,17 @@ I'm a data analytics enthusiast and the founder of **DataDriven Dynamix**, speci
 - 💻 **Passion**: Helping manufacturing companies harness their data to improve efficiency and reduce costs.
 
 ## 🔧 Technologies & Tools
-- Python (Pandas, NumPy, Scikit-learn)
-- SQL, Power BI
-- Git, GitHub
-- AI/ML for predictive maintenance and performance analysis
+- **Data Analytics & AI/ML**: Python (Pandas, NumPy, Scikit-learn), SQL, Power BI, AI/ML for predictive maintenance and performance analysis
+- **Web Development**: HTML, CSS, JavaScript (React), PHP
+- **Version Control**: Git, GitHub
 
 ## 📌 Current Projects
 - **[Predictive Maintenance - Distillation](https://github.com/Dim2960/Predictive_Maintenance-Distilation):** Using data-driven methods to predict and prevent equipment failure.
-- **Dynamic Dashboards**: Interactive KPI dashboards for industrial processes (coming soon).
+- **[Dynamic Dashboards](https://datadriven-dynamix.fr/videos/Filling_Dashboard.mp4):** Interactive KPI dashboards for industrial processes. Watch a demo [here](https://datadriven-dynamix.fr/videos/Filling_Dashboard.mp4).
 
 ## 📫 Let's Connect
-- [💼 LinkedIn](https://www.linkedin.com/in/dimitri-lefebvre/)
+- [🧑‍💻 LinkedIn](https://www.linkedin.com/in/dim-lefebvre60)
+- [💼 LinkedIn Pro](https://www.linkedin.com/company/datadriven-dynamix)
 - [🌐 Website](https://datadriven-dynamix.fr)
 - ✉️ Email: contact@datadriven-dynamix.fr
 
