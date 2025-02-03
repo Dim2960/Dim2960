@@ -8,8 +8,8 @@ I'm a data analytics enthusiast and the founder of **DataDriven Dynamix**, speci
 - 💻 **Passion**: Helping manufacturing companies harness their data to improve efficiency and reduce costs.
 
 ## 🔧 Technologies & Tools
-- **Data Analytics & AI/ML**: Python (Pandas, NumPy, Scikit-learn), SQL, Power BI, AI/ML for predictive maintenance and performance analysis
-- **Web Development**: HTML, CSS, JavaScript (React), PHP
+- **Data Analytics & AI/ML**: Python (Pandas, NumPy, Scikit-learn, TensorFlow), SQL, Power BI, AI/ML for predictive maintenance and performance analysis
+- **Web Development**: HTML, CSS, JavaScript
 - **Version Control**: Git, GitHub
 
 ## 📌 Current Projects
