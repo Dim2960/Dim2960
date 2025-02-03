@@ -2,7 +2,7 @@
 # 👋 Hi there, I'm Dimitri Lefebvre!
 
 ## 🚀 About Me
-I'm a data analytics enthusiast and the founder of **DataDriven Dynamix**, specializing in leveraging industrial data to optimize performance and competitiveness. With 17 years of industry experience, I enjoy transforming raw data into actionable insights.
+I'm a data analytics enthusiast , specializing in leveraging industrial data to optimize performance and competitiveness. With 17 years of industry experience, I enjoy transforming raw data into actionable insights.
 
 - 🌟 **Expertise**: Data analytics, predictive maintenance, and process optimization.
 - 💻 **Passion**: Helping manufacturing companies harness their data to improve efficiency and reduce costs.
