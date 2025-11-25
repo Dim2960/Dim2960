@@ -73,11 +73,15 @@ KyoeiVision does it **automatically**, in seconds.
 
 ## ⚙️ Tech Stack
 
-AI & Computer Vision (detection, 3D pose, OCR) ·
-Real-time video processing (streaming, synchronization, analytics) ·
-Scalable backend architecture (API, event streaming, data pipelines) ·
-Cloud & DevOps infrastructure (security, performance, video delivery) ·
-Apps & analytics (mobile, dashboards, sports insights).
+**AI & Computer Vision** (detection, 3D pose, OCR).
+
+**Real-time video processing** (streaming, synchronization, analytics) ·
+
+**Scalable backend architecture** (API, event streaming, data pipelines) ·
+
+**Cloud & DevOps infrastructure** (security, performance, video delivery) ·
+
+**Apps & analytics** (mobile, dashboards, sports insights).
 
 ## 🌍 Vision
 
