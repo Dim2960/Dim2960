@@ -28,7 +28,11 @@ KyoeiVision fait ce travail **automatiquement**, en quelques secondes.
 
 ## ⚙️ Technologies
 
-YOLO · RTMPose · VideoPose3D · FastAPI · PostgreSQL · NATS · Kotlin · Streamlit · GPU inference · Cloudflare · Nginx
+IA & Computer Vision (détection, pose 3D, OCR) ·
+Traitement vidéo temps réel (streaming, synchronisation, analyse) ·
+Architecture backend scalable (API, event streaming, data pipelines) ·
+Infrastructure cloud & DevOps (sécurité, performance, distribution vidéo) ·
+Applications & analytics (mobile, dashboards, insights sportifs).
 
 ## 🌍 Vision
 
@@ -65,7 +69,11 @@ KyoeiVision does it **automatically**, in seconds.
 
 ## ⚙️ Tech Stack
 
-YOLO · RTMPose · VideoPose3D · FastAPI · PostgreSQL · NATS · Kotlin · Streamlit · GPU inference · Cloudflare · Nginx
+AI & Computer Vision (detection, 3D pose, OCR) ·
+Real-time video processing (streaming, synchronization, analytics) ·
+Scalable backend architecture (API, event streaming, data pipelines) ·
+Cloud & DevOps infrastructure (security, performance, video delivery) ·
+Apps & analytics (mobile, dashboards, sports insights).
 
 ## 🌍 Vision
 
