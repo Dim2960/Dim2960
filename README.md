@@ -28,11 +28,11 @@ KyoeiVision fait ce travail **automatiquement**, en quelques secondes.
 
 ## ⚙️ Technologies
 
-IA & Computer Vision (détection, pose 3D, OCR) ·
-Traitement vidéo temps réel (streaming, synchronisation, analyse) ·
-Architecture backend scalable (API, event streaming, data pipelines) ·
-Infrastructure cloud & DevOps (sécurité, performance, distribution vidéo) ·
-Applications & analytics (mobile, dashboards, insights sportifs).
+**IA & Computer Vision** (détection, pose 3D, OCR) ·
+**Traitement vidéo temps réel** (streaming, synchronisation, analyse) ·
+**Architecture backend scalable** (API, event streaming, data pipelines) ·
+**Infrastructure cloud & DevOps** (sécurité, performance, distribution vidéo) ·
+**Applications & analytics** (mobile, dashboards, insights sportifs).
 
 ## 🌍 Vision
 
