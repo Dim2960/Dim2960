@@ -1,24 +1,93 @@
+# ðŸ‘‹ Dimitri Lefebvre
 
-# 👋 Hi there, I'm Dimitri Lefebvre!
+### Founder --- **KyoeiVision**
 
-## 🚀 About Me
-I'm a data analytics enthusiast , specializing in leveraging industrial data to optimize performance and competitiveness. With 17 years of industry experience, I enjoy transforming raw data into actionable insights.
+#### *AI Video Intelligence for Combat Sports*
 
-- 🌟 **Expertise**: Data analytics, and process optimization.
-- 💻 **Passion**: Helping companies harness their data to improve efficiency and reduce costs.
+------------------------------------------------------------------------
 
-## 🔧 Technologies & Tools
-- **Data Analytics & AI/ML**: Python (Pandas, NumPy, Scikit-learn, TensorFlow), SQL, Power BI, AI/ML for predictive maintenance and performance analysis, computer vision
-- **Web Development**: HTML, CSS, JavaScript, PHP
-- **Version Control**: Git, GitHub
+# ðŸ‡«ðŸ‡· Version FranÃ§aise --- *Startup Edition*
 
-## 📌 Current Projects
-  See my portfolio [🌐 Portfolio](https://portfolio-dimitri-lefebvre.fr)
-## 📫 Let's Connect
-- [🧑‍💻 LinkedIn](https://www.linkedin.com/in/dim-lefebvre60)
-- [💼 LinkedIn Pro](https://www.linkedin.com/company/datadriven-dynamix)
-- ✉️ Email: contact@datadriven-dynamix.fr
+## ðŸ¥‹ Transformer la vidÃ©o en donnÃ©es qui comptent
 
----
+Je construis **KyoeiVision**, une plateforme d'IA qui analyse
+automatiquement les vidÃ©os de **sports de combat** pour extraire des
+informations clÃ©s : actions, scores, durÃ©es, phases techniques,
+comportements, patterns d'attaque...\
+En clair : **l'analytics haut niveau pour tous les dojos et toutes les
+compÃ©titions.**
 
-_"Transforming industrial data into competitive advantage!"_
+## ðŸš€ Ce que fait KyoeiVision
+
+-   DÃ©tection d'objets (combattants, arbitre, scoreboard...)\
+-   Analyse technique automatisÃ©e (shido, ippon, osaekomi, kumikata...)\
+-   Reconstruction 3D des mouvements\
+-   Dashboards de performance\
+-   Application Android pour revue vidÃ©o intelligente\
+-   Pipeline temps rÃ©el pour clubs, coachs, fÃ©dÃ©rations
+
+## ðŸ’¡ Pourquoi ?
+
+Parce que les vidÃ©os regorgent de donnÃ©es...\
+mais personne n'a le temps de les analyser image par image.\
+KyoeiVision fait ce travail **automatiquement**, en quelques secondes.
+
+## âš™ï¸ Technologies
+
+YOLO Â· RTMPose Â· VideoPose3D Â· FastAPI Â· PostgreSQL Â· NATS Â· Kotlin Â·
+Streamlit Â· GPU inference Â· Cloudflare Â· Nginx
+
+## ðŸŒ Vision
+
+Un objectif :\
+**Devenir la plateforme d'analyse vidÃ©o la plus avancÃ©e pour les sports
+de combat.**\
+Simple. Rapide. AutomatisÃ©e. Enrichie par l'IA.
+
+## ðŸ“« Contact
+
+LinkedIn : *Dimitri Lefebvre*\
+Site : *bientÃ´t disponible*
+
+------------------------------------------------------------------------
+
+# ðŸ‡¬ðŸ‡§ English Version --- *Startup Edition*
+
+## ðŸ¥‹ Turning Fight Videos into Actionable Intelligence
+
+I'm building **KyoeiVision**, an AI platform that automatically analyzes
+**combat sports footage** to extract key insights: actions, scores,
+timings, technical phases, biomechanics and attack patterns.\
+In short: **elite-level analytics for every club, coach, and
+federation.**
+
+## ðŸš€ What KyoeiVision Delivers
+
+-   Object detection (fighters, referee, scoreboard...)\
+-   Automated event detection (shido, ippon, osaekomi, kumikata...)\
+-   3D pose reconstruction\
+-   Performance dashboards\
+-   Smart Android video review app\
+-   Real-time pipeline for clubs & federations
+
+## ðŸ’¡ Why?
+
+Video is full of hidden data...\
+but no one has time to analyze it frame by frame.\
+KyoeiVision does it **automatically**, in seconds.
+
+## âš™ï¸ Tech Stack
+
+YOLO Â· RTMPose Â· VideoPose3D Â· FastAPI Â· PostgreSQL Â· NATS Â· Kotlin Â·
+Streamlit Â· GPU inference Â· Cloudflare Â· Nginx
+
+## ðŸŒ Vision
+
+One goal:\
+**Become the most advanced video-analysis platform in combat sports.**\
+Simple. Fast. Automated. Powered by AI.
+
+## ðŸ“« Contact
+
+LinkedIn: *Dimitri Lefebvre*\
+Website: *coming soon*
