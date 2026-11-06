@@ -34,7 +34,7 @@ Je travaille en indépendant :
 - vision par ordinateur et analyse de données ;
 - audit de code généré par IA ;
 - formation des équipes au vibe coding maîtrisé.
-Me contacter : [LinkedIn](https://www.linkedin.com/in/dimlefebvre60) · [Portfolio](https://portfolio-dimitri-lefebvre.fr)
+Me contacter : [LinkedIn](https://www.linkedin.com/in/dim-lefebvre60) · [Portfolio](https://portfolio-dimitri-lefebvre.fr)
  
 ---
  
