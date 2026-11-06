@@ -13,6 +13,7 @@ L'IA écrit vite. Trop vite, parfois. Alors j'applique au code ce que l'industri
 3. **Tester** chaque fonctionnalité.
 4. **Auditer** : une IA en posture d'attaquant, puis Semgrep, CodeQL, gitleaks.
 5. **Publier** une version vérifiable : build CI, empreintes SHA-256, attestation de provenance.
+
 L'IA écrit, je décide et je vérifie. Le modèle de départ de chaque app est ouvert : [`app-template`](https://github.com/une-app-par-semaine/app-template).
  
 ## Parcours
@@ -34,7 +35,7 @@ Je travaille en indépendant :
 - vision par ordinateur et analyse de données ;
 - audit de code généré par IA ;
 - formation des équipes au vibe coding maîtrisé.
-- 
+
 Me contacter : [LinkedIn](https://www.linkedin.com/in/dim-lefebvre60) · [Portfolio](https://portfolio-dimitri-lefebvre.fr)
  
 ---
