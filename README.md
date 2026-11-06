@@ -5,7 +5,7 @@
 En ce moment : [**Une app par semaine**](https://github.com/une-app-par-semaine). Chaque semaine, une application 100 % locale, codée avec Claude, auditée en sécurité, code ouvert. Tout est public : le cadrage, les maquettes, les prompts, le rapport d'audit et les erreurs de l'IA.
  
 ## Le vibe coding maîtrisé
- 
+
 L'IA écrit vite. Trop vite, parfois. Alors j'applique au code ce que l'industrie m'a appris :
  
 1. **Cadrer** avant de générer.
@@ -34,6 +34,7 @@ Je travaille en indépendant :
 - vision par ordinateur et analyse de données ;
 - audit de code généré par IA ;
 - formation des équipes au vibe coding maîtrisé.
+- 
 Me contacter : [LinkedIn](https://www.linkedin.com/in/dim-lefebvre60) · [Portfolio](https://portfolio-dimitri-lefebvre.fr)
  
 ---
