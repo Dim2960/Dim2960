@@ -1,95 +1,43 @@
-# 👋 Dimitri Lefebvre
+# Dimitri Lefebvre
 
-### Founder — **KyoeiVision**
+**Je crée des applications avec l'IA, testées et auditées en sécurité.**
 
-#### *AI Video Intelligence for Combat Sports*
+En ce moment : [**Une app par semaine**](https://github.com/une-app-par-semaine). Chaque semaine, une application 100 % locale, codée avec Claude, auditée en sécurité, code ouvert. Tout est public : le cadrage, les maquettes, les prompts, le rapport d'audit et les erreurs de l'IA.
 
----
+## Le vibe coding maîtrisé
 
-## 🥋 Transformer la vidéo en données qui comptent
+L'IA écrit vite. Trop vite, parfois. Alors j'applique au code ce que l'industrie m'a appris :
 
-Je construis **KyoeiVision**, une plateforme d’IA qui analyse automatiquement les vidéos de **sports de combat** pour extraire des informations clés : actions, scores, durées, phases techniques, comportements, patterns d’attaque…
-En clair : **l’analytics haut niveau pour tous les dojos et toutes les compétitions.**
+1. **Cadrer** avant de générer.
+2. **Designer** avant de coder.
+3. **Tester** chaque fonctionnalité.
+4. **Auditer** : une IA en posture d'attaquant, puis Semgrep, CodeQL, gitleaks.
+5. **Publier** une version vérifiable : build CI, empreintes SHA-256, attestation de provenance.
 
-## 🚀 Ce que fait KyoeiVision
+L'IA écrit, je décide et je vérifie. Le modèle de départ de chaque app est ouvert : [`app-template`](https://github.com/une-app-par-semaine/app-template).
 
-* Détection d’objets (combattants, arbitre, scoreboard…)
-* Analyse technique automatisée (shido, ippon, osaekomi, kumikata…)
-* Reconstruction 3D des mouvements
-* Dashboards de performance
-* Application Android pour revue vidéo intelligente
-* Pipeline temps réel pour clubs, coachs, fédérations
+## Parcours
 
-## 💡 Pourquoi ?
+- **17 ans dans l'industrie chimique (BASF)** : technicien procédés, responsable QHSE, chef d'atelier de 25 personnes. On y cherche la défaillance avant qu'elle n'arrive.
+- **Data analyst** : tableaux de bord, variabilité des procédés, performance des lignes de production.
+- **Vision par ordinateur** : j'ai construit seul JitaVision, une application mobile d'analyse vidéo du judo par IA (lecture du tableau de score, détection des pénalités, découpage automatique des combats), publiée sur l'App Store et Google Play.
+- **Professeur de judo**, diplômé du BPJEPS.
 
-Parce que les vidéos regorgent de données…
-mais personne n’a le temps de les analyser image par image.
-KyoeiVision fait ce travail **automatiquement**, en quelques secondes.
+## Outils
 
-## ⚙️ Technologies
+Claude et Claude Code · Python, FastAPI, PostgreSQL, Celery · React Native et Expo · YOLO, OCR, modèles de vision · Docker · Semgrep, CodeQL, gitleaks, Dependabot
 
-**IA & Computer Vision** (détection, pose 3D, OCR).
+## Missions
 
-**Traitement vidéo temps réel** (streaming, synchronisation, analyse).
+Je travaille en indépendant :
 
-**Architecture backend scalable** (API, event streaming, data pipelines).
+- applications web, mobiles ou desktop sur mesure, avec ou sans serveur ;
+- vision par ordinateur et analyse de données ;
+- audit de code généré par IA ;
+- formation des équipes au vibe coding maîtrisé.
 
-**Infrastructure cloud & DevOps** (sécurité, performance, distribution vidéo).
-
-**Applications & analytics** (mobile, dashboards, insights sportifs).
-
-## 🌍 Vision
-
-Un objectif :
-**Devenir la plateforme d’analyse vidéo la plus avancée pour les sports de combat.**
-Simple. Rapide. Automatisée. Enrichie par l’IA.
-
-## 📫 Contact
-
-LinkedIn : *Dimitri Lefebvre*
-Site : *bientôt disponible*
+Me contacter : [LinkedIn](https://www.linkedin.com/in/dimlefebvre60) · [Portfolio](https://portfolio-dimitri-lefebvre.fr)
 
 ---
 
-## 🥋 Turning Fight Videos into Actionable Intelligence
-
-I’m building **KyoeiVision**, an AI platform that automatically analyzes **combat sports footage** to extract key insights: actions, scores, timings, technical phases, biomechanics and attack patterns.
-In short: **elite-level analytics for every club, coach, and federation.**
-
-## 🚀 What KyoeiVision Delivers
-
-* Object detection (fighters, referee, scoreboard…)
-* Automated event detection (shido, ippon, osaekomi, kumikata…)
-* 3D pose reconstruction
-* Performance dashboards
-* Smart Android video review app
-* Real-time pipeline for clubs & federations
-
-## 💡 Why?
-
-Video is full of hidden data…
-but no one has time to analyze it frame by frame.
-KyoeiVision does it **automatically**, in seconds.
-
-## ⚙️ Tech Stack
-
-**AI & Computer Vision** (detection, 3D pose, OCR).
-
-**Real-time video processing** (streaming, synchronization, analytics) ·
-
-**Scalable backend architecture** (API, event streaming, data pipelines) ·
-
-**Cloud & DevOps infrastructure** (security, performance, video delivery) ·
-
-**Apps & analytics** (mobile, dashboards, sports insights).
-
-## 🌍 Vision
-
-One goal:
-**Become the most advanced video-analysis platform in combat sports.**
-Simple. Fast. Automated. Powered by AI.
-
-## 📫 Contact
-
-LinkedIn: *Dimitri Lefebvre*
-Website: *coming soon*
+**In English** — I build AI-assisted apps that are tested and security-audited. Currently shipping [one fully local, open-source app per week](https://github.com/une-app-par-semaine), built with Claude. Background: 17 years in chemical manufacturing (QHSE, production management), data analytics, and computer vision. Available for freelance work.
